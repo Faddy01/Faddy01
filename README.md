@@ -45,7 +45,7 @@ I build and deploy **cloud-native applications** using modern DevOps practices, 
 
 Production-grade microservices system with CI/CD, service mesh, and monitoring.
 
-🔗 https://github.com/YOUR_USERNAME/openshift-microservices-platform
+🔗 https://github.com/faddy01/openshift-microservices-platform
 
 **Key Highlights:**
 
