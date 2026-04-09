@@ -1,17 +1,3 @@
-<!-- 🔥 DEVOPS BANNER -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faddy01/Faddy01/main/banner.png" alt="DevOps Banner" width="300%" />
-</p>
-
-<!-- 🔥 TYPING ANIMATION -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Faddy01/Faddy01/main/banner.png" style="width:100%; max-height:300px; object-fit:cover;" />
-</p>
-
----
-
 # 👋 Hi, I'm Fawad ul Haq
 
 🚀 DevOps Engineer | Cloud-Native Enthusiast | CI/CD Specialist
@@ -44,11 +30,11 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 
 👉 https://github.com/Faddy01/openshift-microservices-platform
 
-✔ Microservices (Frontend + Backend + MongoDB)
-✔ CI/CD pipeline
-✔ Istio traffic splitting (A/B testing)
-✔ Persistent storage (PVC)
-✔ JWT Authentication
+✔ Microservices (Frontend + Backend + MongoDB)  
+✔ CI/CD pipeline  
+✔ Istio traffic splitting (A/B testing)  
+✔ Persistent storage (PVC)  
+✔ JWT Authentication  
 ✔ Monitoring stack
 
 ---
@@ -88,7 +74,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: www.linkedin.com/in/fawad-ul-haq-9b80101b9
+* 💼 LinkedIn: [Fawad ul Haq](https://www.linkedin.com/in/fawad-ul-haq-9b80101b9)  
 * 📧 Email: [thegrtkhn@email.com](mailto:thegrtkhn@email.com)
 
 ---
@@ -96,5 +82,3 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 ## ⚡ DevOps Philosophy
 
 > Automate everything. Scale anything. Break nothing.
-
----
