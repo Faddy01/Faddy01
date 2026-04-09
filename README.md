@@ -65,6 +65,8 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 <p align="center">
   <img src="https://github.com/users/Faddy01/contributions.svg" />
 </p>
+
+
 ---
 
 ## 🧠 Current Focus
