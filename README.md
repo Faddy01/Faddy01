@@ -7,7 +7,7 @@
 <!-- 🔥 TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Kubernetes+%7C+OpenShift;CI%2FCD+Automation;Cloud-Native+Builder" />
+  <img src="https://raw.githubusercontent.com/Faddy01/Faddy01/main/banner.png" style="width:100%; max-height:300px; object-fit:cover;" />
 </p>
 
 ---
