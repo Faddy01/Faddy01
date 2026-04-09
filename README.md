@@ -62,9 +62,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 
 ## 🐍 GitHub Contributions
 
-<p align="center">
-  <img src="https://github.com/users/Faddy01/contributions.svg" />
-</p>
+<img src="...github-contribution-grid-snake.svg"...>
 
 ---
 
