@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/93385377?v=4" width="150" />
+  <img src="assets/profile.png" width="150" style="border-radius:50%; border:3px solid #4CAF50; box-shadow:0px 4px 10px rgba(0,0,0,0.2);" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4CAF50&center=true&width=500&lines=DevOps+Engineer;Cloud-Native+Enthusiast;CI/CD+Specialist" />
 </p>
 
 # 👋 Hi, I'm Fawad ul Haq
-
-🚀 DevOps Engineer | Cloud-Native Enthusiast | CI/CD Specialist
 
 I build **scalable, production-grade cloud systems** using modern DevOps tools and practices.
 
@@ -13,7 +15,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx,nodejs,mongodb,bash,ansible,terraform" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx,nodejs,mongodb,bash,ansible,terraform" height="40"/>
 </p>
 
 ---
@@ -33,7 +35,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 
 ### 🔥 OpenShift Microservices Platform
 
-👉 https://github.com/Faddy01/openshift-microservices-platform
+👉 [GitHub Repository](https://github.com/Faddy01/openshift-microservices-platform)
 
 ✔ Microservices (Frontend + Backend + MongoDB)  
 ✔ CI/CD pipeline  
@@ -81,8 +83,10 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: [Fawad ul Haq](https://www.linkedin.com/in/fawad-ul-haq-9b80101b9)  
-* 📧 Email: [thegrtkhn@email.com](mailto:thegrtkhn@email.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/fawad-ul-haq-9b80101b9"><img src="https://img.shields.io/badge/LinkedIn-Fawad%20ul%20Haq-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:thegrtkhn@email.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+</p>
 
 ---
 
