@@ -76,9 +76,8 @@ Production-grade microservices system with CI/CD, service mesh, and monitoring.
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* 📧 Email: [your@email.com](mailto:your@email.com)
-
+* 💼 LinkedIn: www.linkedin.com/in/fawad-ul-haq-9b80101b9
+* 📧 Email: thegrtkhn@gmail.com
 ---
 
 ## ⚡ Fun Fact
