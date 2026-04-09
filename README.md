@@ -1,85 +1,100 @@
+<!-- 🔥 DEVOPS BANNER -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Faddy01/Faddy01/main/banner.png" alt="DevOps Banner" width="100%" />
+</p>
+
+<!-- 🔥 TYPING ANIMATION -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=900&lines=DevOps+Engineer;Kubernetes+%7C+OpenShift;CI%2FCD+Automation;Cloud-Native+Builder" />
+</p>
+
+---
+
 # 👋 Hi, I'm Fawad ul Haq
 
-🚀 DevOps Engineer | Cloud & Kubernetes Enthusiast
+🚀 DevOps Engineer | Cloud-Native Enthusiast | CI/CD Specialist
 
-I build and deploy **cloud-native applications** using modern DevOps practices, focusing on automation, scalability, and reliability.
-
----
-
-## 🧠 About Me
-
-* 🔧 Passionate about DevOps & Cloud Engineering
-* ☸️ Working with Kubernetes & OpenShift
-* 🔄 Building CI/CD pipelines and microservices architectures
-* 📈 Interested in scalable, production-grade systems
+I build **scalable, production-grade cloud systems** using modern DevOps tools and practices.
 
 ---
 
-## ⚙️ Tech Stack
+## ⚡ Tech Stack
 
-### 🚀 DevOps & Cloud
-
-* Kubernetes
-* OpenShift
-* Docker
-* GitHub Actions (CI/CD)
-* Helm
-
-### 🔧 Observability & Tools
-
-* Prometheus
-* Grafana
-* Istio (Service Mesh)
-
-### 💻 Backend & Scripting
-
-* Node.js
-* Bash
-* YAML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx,nodejs,mongodb,bash" />
+</p>
 
 ---
 
-## 🏗️ Featured Project
+## 🏗️ DevOps Expertise
 
-### 🚀 OpenShift Microservices Platform
+* ☸️ Kubernetes & OpenShift deployments
+* 🔄 CI/CD pipelines (GitHub Actions)
+* 🔀 Service Mesh (Istio - A/B deployments)
+* 📊 Monitoring (Prometheus + Grafana)
+* 🔐 Authentication (JWT / OAuth)
 
-Production-grade microservices system with CI/CD, service mesh, and monitoring.
+---
 
-🔗 https://github.com/faddy01/openshift-microservices-platform
+## 🚀 Featured Project
 
-**Key Highlights:**
+### 🔥 OpenShift Microservices Platform
 
-* Microservices (Frontend + Backend + MongoDB)
-* CI/CD pipeline with GitHub Actions
-* Istio service mesh (A/B traffic splitting)
-* Persistent storage (PVC)
-* JWT Authentication
-* Monitoring (Prometheus + Grafana)
+👉 https://github.com/Faddy01/openshift-microservices-platform
+
+✔ Microservices (Frontend + Backend + MongoDB)
+✔ CI/CD pipeline
+✔ Istio traffic splitting (A/B testing)
+✔ Persistent storage (PVC)
+✔ JWT Authentication
+✔ Monitoring stack
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faddy01&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=Faddy01&theme=tokyonight" />
+</p>
 
 ---
 
-## 🧪 Current Focus
+## 📈 Activity Graph
 
-* 🚀 Improving Kubernetes production deployments
-* 🔄 Learning GitOps (ArgoCD)
-* ☁️ Exploring cloud platforms (AWS/GCP)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Faddy01&theme=react-dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Faddy01/Faddy01/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Current Focus
+
+* 🚀 Production-grade Kubernetes deployments
+* ☁️ Cloud (AWS / GCP)
+* 🔄 GitOps (ArgoCD)
 
 ---
 
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/fawad-ul-haq-9b80101b9
-* 📧 Email: thegrtkhn@gmail.com
+* 📧 Email: [your@email.com](mailto:thegrtkhn@email.com)
+
 ---
 
-## ⚡ Fun Fact
+## ⚡ DevOps Philosophy
 
-I enjoy turning complex infrastructure into automated, scalable systems 🚀
+> Automate everything. Scale anything. Break nothing.
+
+---
