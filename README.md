@@ -89,7 +89,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 ## 🤝 Connect With Me
 
 * 💼 LinkedIn: www.linkedin.com/in/fawad-ul-haq-9b80101b9
-* 📧 Email: [your@email.com](mailto:thegrtkhn@email.com)
+* 📧 Email: [thegrtkhn@email.com](mailto:thegrtkhn@email.com)
 
 ---
 
