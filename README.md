@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/93385377?v=4" width="150" />
+</p>
+
 # 👋 Hi, I'm Fawad ul Haq
 
 🚀 DevOps Engineer | Cloud-Native Enthusiast | CI/CD Specialist
@@ -9,7 +13,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 ## ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx,nodejs,mongodb,bash" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,git,github,nginx,nodejs,mongodb,bash,ansible,terraform" />
 </p>
 
 ---
@@ -21,6 +25,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 * 🔀 Service Mesh (Istio - A/B deployments)
 * 📊 Monitoring (Prometheus + Grafana)
 * 🔐 Authentication (JWT / OAuth)
+* ⚙️ Infrastructure as Code (Ansible & Terraform)
 
 ---
 
@@ -35,7 +40,8 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 ✔ Istio traffic splitting (A/B testing)  
 ✔ Persistent storage (PVC)  
 ✔ JWT Authentication  
-✔ Monitoring stack
+✔ Monitoring stack  
+✔ Infrastructure as Code with Ansible & Terraform
 
 ---
 
@@ -56,16 +62,11 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 
 ---
 
-
-
----
-
 ## 🐍 GitHub Contributions
 
 <p align="center">
   <img src="https://github.com/users/Faddy01/contributions.svg" />
 </p>
-
 
 ---
 
@@ -74,6 +75,7 @@ I build **scalable, production-grade cloud systems** using modern DevOps tools a
 * 🚀 Production-grade Kubernetes deployments
 * ☁️ Cloud (AWS / GCP)
 * 🔄 GitOps (ArgoCD)
+* ⚙️ Infrastructure as Code (Ansible & Terraform)
 
 ---
 
