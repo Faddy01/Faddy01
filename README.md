@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=4CAF50&center=true&width=500&lines=DevOps+Engineer;Cloud-Native+Enthusiast;CI/CD+Specialist" />
 </p>
 
-# 👋 Hi, I'm Fawad ul Haq
+#                                            👋 Hi, I'm Fawad ul Haq
 
 I build **scalable, production-grade cloud systems** using modern DevOps tools and practices.
 
