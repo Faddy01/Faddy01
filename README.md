@@ -3,64 +3,94 @@
 </p>
 
 <h1 align="center">Fawad Ul Haq</h1>
-<h3 align="center">DevOps Engineer | Cloud Infrastructure | Platform Engineering</h3>
+<h3 align="center">DevOps Engineer | Cloud & Infrastructure Specialist</h3>
 
 <p align="center">
-Designing scalable, secure, and highly available cloud-native systems using modern DevOps & SRE practices.
+Focused on building reliable, scalable, and automated cloud infrastructure using modern DevOps practices.
 </p>
 
 ---
 
-## 🧠 Executive Summary
+## 👨‍💻 About Me
 
-DevOps Engineer specializing in cloud infrastructure automation, CI/CD pipeline engineering, and Kubernetes-based distributed systems.  
-Experienced in building production-grade, observable, and fault-tolerant platforms using Infrastructure as Code and GitOps principles.
-
----
-
-## 🏆 Core Expertise
-
-- Cloud Platforms: AWS  
-- Containers & Orchestration: Kubernetes, OpenShift, Docker  
-- Infrastructure as Code: Terraform, Ansible  
-- CI/CD: GitHub Actions, Jenkins  
-- Observability: Prometheus, Grafana  
-- Networking: Ingress Controllers, Service Mesh (Istio)  
-- Security: JWT Authentication, Secure Deployment Pipelines  
-- Architecture: Microservices, Distributed Systems  
-- Practices: GitOps, SRE, High Availability, Fault Tolerance  
+I am a DevOps Engineer specializing in cloud infrastructure, automation, and CI/CD pipelines.  
+I enjoy designing systems that are scalable, secure, and maintainable in production environments.
 
 ---
 
-## 🚀 Featured Project — OpenShift Microservices Platform
+## 🛠️ Technical Skills
 
-GitHub Repository:  
-https://github.com/Faddy01/openshift-microservices-platform
+### Cloud & Infrastructure
+- AWS
+- Linux System Administration
+- Terraform (Infrastructure as Code)
+
+### Containers & Orchestration
+- Docker
+- Kubernetes
+
+### CI/CD & Automation
+- GitHub Actions
+- Jenkins
+- Ansible
+
+### Observability & Monitoring
+- Prometheus
+- Grafana
+
+### Practices
+- CI/CD Pipeline Design
+- Infrastructure as Code (IaC)
+- GitOps (ArgoCD)
+- High Availability Systems
+- Secure Deployment Strategies
 
 ---
 
-## 🏗️ System Architecture
+## 🚀 Key Project
 
-```mermaid
-flowchart LR
+### OpenShift Microservices Platform
+GitHub: https://github.com/Faddy01/openshift-microservices-platform
 
-User[User / Client] --> Ingress[Ingress Controller]
+A production-style microservices platform demonstrating modern DevOps practices:
 
-Ingress --> Frontend[Frontend Service]
-Frontend --> Backend[Backend API Service]
+- Microservices architecture (Frontend, Backend, MongoDB)
+- CI/CD pipeline automation
+- Kubernetes/OpenShift deployment
+- Istio traffic routing (A/B testing)
+- Persistent storage (PVC)
+- JWT authentication
+- Monitoring with Prometheus & Grafana
+- Infrastructure provisioning using Terraform & Ansible
 
-Backend --> Auth[JWT Authentication Layer]
-Backend --> DB[(MongoDB Database)]
+---
 
-subgraph Kubernetes/OpenShift Cluster
-Frontend
-Backend
-Auth
-DB
-Monitoring[Prometheus + Grafana]
-Istio[Istio Service Mesh]
-end
+## 📊 GitHub Stats
 
-Ingress --> Istio
-Istio --> Backend
-Istio --> Frontend
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Faddy01&show_icons=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faddy01&layout=compact&theme=default" height="160"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+- Kubernetes cluster operations and optimization
+- AWS infrastructure design and automation
+- CI/CD pipeline improvement and standardization
+- Observability and system reliability engineering
+- GitOps workflows using ArgoCD
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/fawad-ul-haq-9b80101b9  
+- Email: thegrtkhn1@gmail.com  
+
+---
+
+## ⚡ DevOps Philosophy
+
+> “Automate everything that can be automated. Build systems that are simple, observable, and resilient.”
