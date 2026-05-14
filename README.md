@@ -1,73 +1,39 @@
-# Hi there 👋 I'm Fawad Ul Haq
+# Fawad Ul Haq
 
-## 🚀 About Me
-Passionate about DevOps, Cloud, and Automation.  
-Currently building hands-on projects to improve skills in CI/CD, Docker, Kubernetes, Linux, and Infrastructure as Code.
+Junior DevOps Engineer based in Frankfurt, Germany. I build CI/CD pipelines, containerize applications, and deploy them on Kubernetes and OpenShift.
 
----
+Ironhack DevOps & Cloud Computing graduate (400+ hours). Red Hat certified in Cloud-Native Development with OpenShift and Kubernetes.
 
-## 🛠️ Tech Stack
+## What I've Built
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Red Hat OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+**[OpenShift Microservices Platform](https://github.com/Faddy01/OpenShift-Microservices-Platform)** — Microservices app (Node.js + MongoDB + NGINX) on OpenShift with Istio service mesh for A/B traffic splitting, GitHub Actions CI/CD, and Prometheus/Grafana monitoring.
 
-### Programming & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
----
+**[Guestbook App](https://github.com/Faddy01/guestbook)** — Full-stack Go REST API with multi-stage Docker builds, deployed via Kubernetes (3 replicas) and OpenShift Route on IBM Cloud.
 
-## 🚧 Current Project
+**[3-Tier Application](https://github.com/Faddy01/3-tier-application)** — Multi-stack DevOps infrastructure automation with containerization and CI/CD pipelines.
 
-### 🔹 DevOps App  
-🔗 https://github.com/Faddy01/devops-app  
+## Tools I Use
 
-![Status](https://img.shields.io/badge/status-under%20development-orange?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD-in%20progress-blue?style=for-the-badge)
-![Docker](https://img.shields.io/badge/dockerized-yes-2496ED?style=for-the-badge)
-![Kubernetes](https://img.shields.io/badge/kubernetes-ready-326CE5?style=for-the-badge)
+**Containers & Orchestration:** Docker, Kubernetes, OpenShift, Helm  
+**CI/CD:** GitHub Actions, Jenkins  
+**Infrastructure as Code:** Terraform, Ansible  
+**Cloud:** AWS, Azure  
+**Monitoring:** Prometheus, Grafana  
+**Service Mesh:** Istio  
+**Languages:** Python, Bash, JavaScript  
+**OS:** Linux (RHEL, Ubuntu)
 
-Hands-on DevOps project currently under development featuring:
+## Certifications
 
-- CI/CD Pipelines (GitHub Actions)
-- Docker Containerization
-- Kubernetes Deployment
-- Infrastructure Automation
-- Cloud Deployment Practices
+- **Ironhack** — DevOps & Cloud Computing Bootcamp (400+ hours, Mar 2026)
+- **Red Hat / Coursera** — Cloud-Native Development with OpenShift and Kubernetes Specialization (Apr 2026)
+- **Red Hat / Coursera** — Fundamentals of Containers, Kubernetes and OpenShift (Apr 2026)
+- **Red Hat / Coursera** — Foundations of Red Hat Cloud-native Development (Apr 2026)
+- **Red Hat / Coursera** — Managing Cloud-native Applications with Kubernetes (Apr 2026)
+- **Red Hat / Coursera** — Advanced Application Management with Red Hat OpenShift (Apr 2026)
 
----
+## Contact
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Faddy01&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faddy01&layout=compact&theme=tokyonight)
-
----
-
-## 🎯 Currently Learning
-
-- Terraform (IaC)
-- AWS Cloud
-- Kubernetes Advanced Concepts
-- Monitoring (Prometheus + Grafana)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: https://github.com/Faddy01
-
----
-
-## ⚡ Motto
-
-> Automate everything. Deploy anywhere. Scale endlessly.
+- [LinkedIn](https://www.linkedin.com/in/fawad-ul-haq-9b80101b9)
+- Email: thegrtkhn@email.com
+- Location: Frankfurt, Germany
